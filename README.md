@@ -1,4 +1,4 @@
-## 3 steps for PWS
+## 3 steps for PWA
 1. Service-worker
 2. LOGO
 3. manifest.json
